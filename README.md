@@ -5,7 +5,7 @@
 ![.NET](https://img.shields.io/badge/Framework-.NET%204.7.2-green)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
 
-이 프로젝트는 2022년~2023년 사이에 개발된 **C# WinForms 기반 로또 구매 및 추첨 시스템** 으로, 대학 축제 부스 운영 목적으로 개발하였습니다.
+이 프로젝트는 2023년에 개발된 **C# WinForms 기반 로또 구매 및 추첨 시스템** 으로, 대학 축제 부스 운영 목적으로 개발하였습니다.
 현재는 더 이상 업데이트나 유지보수를 진행하지 않으며, 학습 및 과거 기록을 보존하는 **아카이브(Archive)** 용도로 업로드 하였습니다.
 
 ## 프로젝트 개요
