@@ -1,0 +1,23 @@
+## Visual Studio 빌드 결과물
+bin/
+obj/
+[Debug]/
+[Release]/
+
+## 사용자 설정
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+## 데이터베이스 파일 (개인 데이터 보호)
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+## NuGet 패키지 (용량 최적화)
+packages/
+
+## 기타 임시 파일
+desktop.ini
